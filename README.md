@@ -9,3 +9,5 @@
 - julia
 - php
 - javascritp
+### habilidades
+- asertividad

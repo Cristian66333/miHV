@@ -21,3 +21,10 @@
 - comunicacion
 - organización del tiempo
 - trabajo bajo presión
+### idiomas
+- ingles
+- español
+- chino
+- frances
+- portugues
+- italiano

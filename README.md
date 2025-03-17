@@ -1,3 +1,4 @@
+
 # Esta es mi hoja de vida
 ## Mi nombre es Cristian Suancha
 ### lenguajes de programación
@@ -11,3 +12,9 @@
 - javascritp
 ### habilidades
 - asertividad
+- trabajo en equipo
+- liderazgo
+- comunicacion
+- organización del tiempo
+- trabajo bajo presión
+
